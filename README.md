@@ -1,2 +1,2 @@
 # Planet Attack
-B)
+Public clone of Planet Attack
